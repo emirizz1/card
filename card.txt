@@ -1,0 +1,1200 @@
+Card: 5282081791675224|03|2030|730
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 23s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282083755830720|03|2029|054
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 45s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089016708274|12|2031|006
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 20s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282085283050119|12|2034|027
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 26s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084475154813|05|2038|072
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 32s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282088297987268|08|2040|972
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 31s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089347384720|12|2028|044
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 32s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282085127079167|04|2038|490
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 22s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282085283678257|04|2027|506
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 43s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282081175234424|03|2027|877
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 24s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087462313565|12|2029|178
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 22s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084537409460|10|2036|222
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 24s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080014499743|07|2028|458
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 26s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282085863662564|02|2035|798
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 22s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080636232662|02|2035|898
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 22s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282088461801097|07|2035|782
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 26s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084350300432|03|2029|002
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 26s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080624114369|11|2038|608
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 21s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282081071480139|09|2029|734
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 28s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089207625477|03|2039|117
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 39s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089503549140|07|2034|122
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 32s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084662838921|07|2029|882
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 27s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084807550233|11|2034|678
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 23s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282085376080122|11|2033|031
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 51s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282082301701401|08|2038|215
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 20s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282082547445482|08|2026|207
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 50s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087643756724|07|2026|773
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 32s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282088476805992|12|2036|662
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 29s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282083977904022|09|2030|260
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 21s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087647184329|02|2040|165
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 21s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282086238827502|02|2040|566
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 22s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282088676659553|10|2037|027
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 53s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282082213960301|05|2039|231
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 22s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089360175864|05|2036|311
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 34s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084410588281|05|2031|645
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 29s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282088554481088|04|2036|544
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 22s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080216739979|08|2034|156
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 20s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080892458282|03|2026|739
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 26s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282081573245089|07|2040|803
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 33s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084038312742|01|2033|732
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 23s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084166803769|04|2031|749
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 58s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080882171358|05|2034|720
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 32s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282086385710428|10|2033|181
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 24s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282081001619145|06|2038|859
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 27s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282082729758934|08|2039|304
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 29s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089313720659|04|2028|431
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 27s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089411969109|06|2039|963
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 40s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080815344023|01|2032|541
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 21s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282083344682756|02|2027|241
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 29s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282081808277113|03|2031|381
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 27s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282083060590019|01|2036|468
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 23s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282085259056587|07|2030|865
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 25s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282086885859840|12|2028|802
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 24s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080067264788|05|2040|493
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 25s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282085173899161|04|2029|776
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 23s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080975235631|12|2035|482
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 36s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282085481781135|02|2040|220
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 21s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282081068668886|10|2039|338
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 28s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087260265868|12|2039|092
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 23s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282086731256704|01|2039|732
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 28s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089348982720|10|2040|461
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 30s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087807196113|01|2031|035
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 40s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087254593309|09|2026|321
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 39s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282088504788731|06|2027|030
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 25s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282082290231147|07|2027|358
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 23s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282081614756243|09|2026|044
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 36s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282086050405056|03|2026|843
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 24s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282085046920566|12|2039|490
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 29s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080054571310|10|2038|272
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 23s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087263653664|11|2028|046
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 26s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087412316668|03|2037|038
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 28s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080304920721|09|2029|021
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 24s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282082163595313|05|2028|295
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 22s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084689288142|07|2033|232
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 27s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282081921861702|06|2040|309
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 42s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087482186322|08|2039|084
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 22s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084910289430|12|2027|532
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 21s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282088552141239|11|2026|529
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 36s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282083921905083|09|2038|938
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 22s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089314688749|11|2033|726
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 28s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087515237951|08|2037|271
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 35s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282082496356342|12|2030|474
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 24s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282086769848182|08|2028|737
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 25s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084739312967|12|2031|407
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 34s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080405191545|12|2031|158
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 24s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084170994380|04|2033|161
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 30s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282082010641393|07|2033|303
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 33s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282081684809724|09|2026|840
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 38s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282086834323260|01|2027|000
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 26s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084332689241|12|2037|569
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 28s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282086754584891|04|2029|473
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 39s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282080133371385|09|2027|111
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 32s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282088308039992|03|2031|683
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 24s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282086256038529|10|2034|812
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 30s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089311313762|06|2037|072
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 37s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282089080126734|04|2026|230
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 36s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282085881894553|01|2032|697
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 24s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282088260546547|06|2031|275
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 56s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282084290500232|03|2031|079
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 34s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
+Card: 5282087027609515|06|2032|526
+Status: APPROVED! ✅
+Response: APPROVED! ✅ - 3DS Secure
+
+BIN Info:
+MASTERCARD - DEBIT
+Bank: T.C. ZIRAAT BANKASI A.S.
+Country: TÜRKIYE 🇹🇷
+Response Time: 27s
+Checked by: 𝑠𝑎𝑛𝑐ℎ𝑒𝑧
+Dev by: @farkederli
+
